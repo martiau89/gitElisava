@@ -1,1 +1,3 @@
-hola estoy aprendindo GIT 
+hola estoy aprendindo GIT
+
+y aedmas aprendo comit
